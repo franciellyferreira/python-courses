@@ -2,5 +2,5 @@
 
 Repositório criado para compartilhar os exemplos criados na realização de alguns cursos da linguagem Python.
 
-_1. Curso - Introdução ao Python_
-_2. Curso - Visualização de Dados com Python_
+1. **Curso - Introdução ao Python**
+2. **Curso - Visualização de Dados com Python**
